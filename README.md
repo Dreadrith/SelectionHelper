@@ -1,6 +1,10 @@
 # SelectionHelper
 Unity Editor package to make selecting certain objects easier and less tedious
 
+Download:
+<a href=https://github.com/Dreadrith/SelectionHelper/releases/download/v1.2.2/SelectionHelper_v1.2.2.unitypackage>Unity Package</a> - 
+<a href=https://github.com/Dreadrith/SelectionHelper/releases/download/v1.2.2/SelectionHelper_v1.2.2.zip>Zip (VPM Compatible)</a>
+
 SelectionHelper:
 ----------------
 - Go to a Component on an object and Right Click > [SH] Choose Type. Right Click on a GameObject, Selection Helper > By Type > Children, Parents, or Filter Current Selection.
