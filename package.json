@@ -18,7 +18,7 @@
     "url": "https://github.com/Dreadrith"
   },
   "legacyFolders": {
-    "Assets\\DreadScripts/Selection Helper": "6ec3e159e94175241a20166127b7da81",
-	"Assets\\DreadScripts/SelectionHelper": "e0c37a2eebed7f54eb05af2439a04f27"
+    "Assets\\DreadScripts\\Selection Helper": "6ec3e159e94175241a20166127b7da81",
+	"Assets\\DreadScripts\\SelectionHelper": "e0c37a2eebed7f54eb05af2439a04f27"
   }
 }
