@@ -1,0 +1,23 @@
+{
+  "name": "com.dreadrith.tool.selectionhelper",
+  "displayName": "DreadTools - Selection Helper",
+  "version": "1.2.2",
+  "unity": "2019.4",
+  "description": "Unity Editor package to make selecting certain objects easier and less tedious",
+  "keywords": [
+    "Dreadrith",
+    "DreadScripts",
+    "DreadTools",
+	"Editor",
+    "Utility",
+    "Selection"
+  ],
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://github.com/Dreadrith"
+  },
+  "legacyFolders": {
+    "Assets\\DreadScripts/Selection Helper": "6ec3e159e94175241a20166127b7da81"
+  }
+}
