@@ -1,5 +1,5 @@
 {
-    "name": "SelectionHelperEditor",
+    "name": "com.dreadscripts.selectionhelper",
     "references": [],
     "includePlatforms": [
         "Editor"
