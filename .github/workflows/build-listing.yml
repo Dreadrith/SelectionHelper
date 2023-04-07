@@ -2,7 +2,7 @@ name: Build Repo Listing
 
 env:
   CurrentPackageName: com.dreadscripts.selectionhelper
-  listPublishDirectory: Website
+  listPublishDirectory: Website~
   pathToCi: ci
   
 on: 

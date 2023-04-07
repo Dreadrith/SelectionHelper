@@ -1,7 +1,7 @@
 {
   "name": "com.dreadscripts.selectionhelper",
   "displayName": "DreadTools - Selection Helper",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "unity": "2019.4",
   "license": "MIT",
   "description": "Unity Editor package to make selecting certain objects easier and less tedious",
