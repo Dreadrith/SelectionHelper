@@ -3,6 +3,7 @@
   "displayName": "DreadTools - Selection Helper",
   "version": "1.2.2",
   "unity": "2019.4",
+  "license": "MIT",
   "description": "Unity Editor package to make selecting certain objects easier and less tedious",
   "keywords": [
     "Dreadrith",
