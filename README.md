@@ -1,9 +1,7 @@
 # SelectionHelper
 Unity Editor package to make selecting certain objects easier and less tedious
 
-Download:
-<a href=https://github.com/Dreadrith/SelectionHelper/releases/download/v1.2.2/SelectionHelper_v1.2.2.unitypackage>Unity Package</a> - 
-<a href=https://github.com/Dreadrith/SelectionHelper/releases/download/v1.2.2/SelectionHelper_v1.2.2.zip>Zip (VPM Compatible)</a>
+<a href="https://vpm.dreadscripts.com/">Get it from the VCC listing!</a>
 
 SelectionHelper:
 ----------------
